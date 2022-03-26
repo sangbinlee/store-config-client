@@ -4,7 +4,7 @@ server:
 ---
 spring:
   application:
-    name: config-store-dev
+    name: config-store-dev # 설정파일 YML 이름
   config:
     import: optional:configserver:http://localhost:9999
 # test:
