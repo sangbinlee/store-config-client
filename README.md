@@ -61,3 +61,7 @@
 	lsv40@DESKTOP-UFPDSPR MINGW64 ~/Documents/workspace-spring-tool-suite-4-4.14.0.RELEASE/store-config-client (main)
 	$
 
+# test url
+	http://localhost:8088/test
+	http://localhost:8088/actuator/refresh
+	http://localhost:8088/actuator/refresh
